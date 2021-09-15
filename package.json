@@ -1,0 +1,23 @@
+{
+  "name": "git_test1",
+  "version": "1.0.0",
+  "description": "this is a git test for learning purpose",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preetam078/git-test.git"
+  },
+  "author": "Preetam Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preetam078/git-test/issues"
+  },
+  "homepage": "https://github.com/Preetam078/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
